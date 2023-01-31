@@ -48,22 +48,8 @@
 
 <br>
 
-</p>
-
-<br>
-<br>
-
 -----
 
-<br>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b>
@@ -100,4 +86,5 @@
 
 <br>
 
+Credit: [Aniket Mahadik](https://github.com/AniketM156)
 Last Edited on: 31/1/2023
