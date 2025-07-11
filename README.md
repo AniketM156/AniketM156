@@ -6,7 +6,7 @@
 
 <br>
 
-- Seniour Associate software Engineer @Telstra
+- Senior Associate software Engineer @Telstra
 - BTech VJTI'23 EXTC
 - Back-end developer
 - I’m open for full time job opportunity, this is [my resume](https://drive.google.com/file/d/1W_I7sfygfZFB6rshf5T_94lGJu0n_uts/view)
