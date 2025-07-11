@@ -6,10 +6,10 @@
 
 <br>
 
-- Final year student at VJTI'23 EXTC
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development with MERN stack
-- I’m open for Internships or full time job opportunity, this is [my resume](https://drive.google.com/file/d/1W_I7sfygfZFB6rshf5T_94lGJu0n_uts/view)
+- Seniour Associate software Engineer @Telstra
+- BTech VJTI'23 EXTC
+- Back-end developer
+- I’m open for full time job opportunity, this is [my resume](https://drive.google.com/file/d/1W_I7sfygfZFB6rshf5T_94lGJu0n_uts/view)
 
 <br><br>
 
